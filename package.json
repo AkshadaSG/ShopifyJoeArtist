@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@types/node": "^20.8.3",
+    "@types/shopify-buy": "^2.17.2",
+    "npm-install-webpack-plugin": "^4.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "shopify-buy": "^2.21.1",
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.25",
+    "@types/react-dom": "^18.2.11"
+  },
+  "name": "mindtreeshopify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
